@@ -1,8 +1,8 @@
-package com.example.onboarding.controller;
+package com.codeNeeTi.onboarding.controller;
 
-import com.example.onboarding.dto.AuthResponse;
-import com.example.onboarding.dto.LoginRequest;
-import com.example.onboarding.util.JwtUtil;
+import com.codeNeeTi.onboarding.dto.AuthResponse;
+import com.codeNeeTi.onboarding.dto.LoginRequest;
+import com.codeNeeTi.onboarding.util.JwtUtil;
 import jakarta.validation.Valid;
 import org.springframework.http.ResponseEntity;
 import org.springframework.security.authentication.*;

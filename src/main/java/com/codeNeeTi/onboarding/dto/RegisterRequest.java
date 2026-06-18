@@ -1,4 +1,4 @@
-package com.example.onboarding.dto;
+package com.codeNeeTi.onboarding.dto;
 
 import jakarta.validation.constraints.Email;
 import jakarta.validation.constraints.NotBlank;

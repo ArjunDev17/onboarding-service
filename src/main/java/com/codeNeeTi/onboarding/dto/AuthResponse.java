@@ -1,4 +1,4 @@
-package com.example.onboarding.dto;
+package com.codeNeeTi.onboarding.dto;
 
 /**
  * DTO returned after successful authentication.

@@ -1,9 +1,9 @@
-package com.example.onboarding.service.impl;
+package com.codeNeeTi.onboarding.service.impl;
 
-import com.example.onboarding.dto.RegisterRequest;
-import com.example.onboarding.entity.AppUser;
-import com.example.onboarding.repository.UserRepository;
-import com.example.onboarding.service.UserService;
+import com.codeNeeTi.onboarding.dto.RegisterRequest;
+import com.codeNeeTi.onboarding.entity.AppUser;
+import com.codeNeeTi.onboarding.repository.UserRepository;
+import com.codeNeeTi.onboarding.service.UserService;
 import org.springframework.security.crypto.password.PasswordEncoder;
 import org.springframework.stereotype.Service;
 import org.springframework.transaction.annotation.Transactional;

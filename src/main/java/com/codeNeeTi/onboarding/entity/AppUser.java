@@ -1,4 +1,4 @@
-package com.example.onboarding.entity;
+package com.codeNeeTi.onboarding.entity;
 
 import jakarta.persistence.*;
 import java.time.Instant;
