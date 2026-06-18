@@ -1,4 +1,4 @@
-package com.example.onboarding.util;
+package com.codeNeeTi.onboarding.util;
 
 import io.jsonwebtoken.*;
 import io.jsonwebtoken.security.Keys;

@@ -1,6 +1,6 @@
-package com.example.onboarding.repository;
+package com.codeNeeTi.onboarding.repository;
 
-import com.example.onboarding.entity.AppUser;
+import com.codeNeeTi.onboarding.entity.AppUser;
 import org.springframework.data.jpa.repository.JpaRepository;
 import java.util.Optional;
 

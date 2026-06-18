@@ -1,7 +1,7 @@
-package com.example.onboarding.config;
+package com.codeNeeTi.onboarding.config;
 
-import com.example.onboarding.repository.UserRepository;
-import com.example.onboarding.entity.AppUser;
+import com.codeNeeTi.onboarding.repository.UserRepository;
+import com.codeNeeTi.onboarding.entity.AppUser;
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;
 import org.springframework.security.authentication.AuthenticationManager;
